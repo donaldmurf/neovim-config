@@ -1,4 +1,3 @@
 # 💤 LazyVim
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+### Notes
+- tree-sitter-cli was manually installed in order to pass checkhealth > [!WARNING]
